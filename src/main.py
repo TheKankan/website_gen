@@ -1,4 +1,4 @@
-from textnode import TextNode, TextType
+from textnode import *
 
 def main():
     new_text = TextNode("test", TextTypes.NORMAL)
