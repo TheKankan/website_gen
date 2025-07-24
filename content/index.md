@@ -1,46 +1,37 @@
-# Tolkien Fan Club
+# Kankan's Website
 
-![JRR Tolkien sitting](/images/tolkien.png)
+![Kankan himself](/images/Kankan.jpg)
 
-Here's the deal, **I like Tolkien**.
+I created this website with my own static website generator, **That took forever**.
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
-
-## Blog posts
+## Other placeholder pages :
 
 - [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
 - [Why Tom Bombadil Was a Mistake](/blog/tom)
 - [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
 
-## Reasons I like Tolkien
+## List of everything i like eating :
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+- Pizza
+- Pizza
+- Pizza
+- Croissant
 
-## My favorite characters (in order)
+## My favorite video games
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+1. Terraria
+2. Kingdom Hearts 2
+3. Minecraft
+4. World of Warcraft
+5. Ratchet & Clank
 
-Here's what `elflang` looks like (the perfect coding language):
+Here is some `code` (because i want to show that i can display it):
 
 ```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
+def main():
+print("yo what's up")
 ```
 
-Want to get in touch? [Contact me here](/contact).
+And the last placeholder page : [Click Here](/contact).
 
 This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
